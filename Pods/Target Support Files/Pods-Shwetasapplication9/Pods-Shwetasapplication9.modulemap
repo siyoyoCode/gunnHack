@@ -1,0 +1,6 @@
+framework module Pods_Shwetasapplication9 {
+  umbrella header "Pods-Shwetasapplication9-umbrella.h"
+
+  export *
+  module * { export * }
+}
