@@ -1,5 +1,5 @@
 import SwiftUI
-
+// allow access page
 struct FrameTwelveView: View {
     @StateObject var frameTwelveViewModel = FrameTwelveViewModel()
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
@@ -55,6 +55,8 @@ struct FrameTwelveView: View {
                             .fill(ColorConstants.RedA700))
                     .padding(.vertical, getRelativeHeight(61.0))
                     .padding(.horizontal, getRelativeWidth(34.0))
+                    
+                    
                 }
                 .frame(width: UIScreen.main.bounds.width, height: getRelativeHeight(384.0),
                        alignment: .leading)
