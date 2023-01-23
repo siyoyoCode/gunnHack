@@ -14,19 +14,17 @@ struct FrameTwelveView: View {
                         .minimumScaleFactor(0.5)
                         .multilineTextAlignment(.leading)
                         .frame(width: getRelativeWidth(213.0), height: getRelativeHeight(24.0),
-                               alignment: .topLeading)
+                               alignment: .center)
                         .padding(.top, getRelativeHeight(56.0))
-                        .padding(.horizontal, getRelativeWidth(34.0))
                     Text(StringConstants.kMsgWouldYouAllow)
                         .font(FontScheme.kMontserratMedium(size: getRelativeHeight(12.0)))
                         .fontWeight(.medium)
                         .foregroundColor(ColorConstants.Red700)
                         .minimumScaleFactor(0.5)
-                        .multilineTextAlignment(.leading)
+                        .multilineTextAlignment(.center)
                         .frame(width: getRelativeWidth(250.0), height: getRelativeHeight(98.0),
-                               alignment: .topLeading)
+                               alignment: .center)
                         .padding(.top, getRelativeHeight(46.0))
-                        .padding(.horizontal, getRelativeWidth(34.0))
                     Button(action: {
                         frameTwelveViewModel.nextScreen = "IPhone11ProXFourView"
                     }, label: {
@@ -59,7 +57,7 @@ struct FrameTwelveView: View {
                     
                 }
                 .frame(width: UIScreen.main.bounds.width, height: getRelativeHeight(384.0),
-                       alignment: .leading)
+                       alignment: .center)
                 .background(RoundedCorners(topLeft: 25.0, topRight: 25.0, bottomLeft: 25.0,
                                            bottomRight: 25.0)
                         .fill(ColorConstants.WhiteA700))
