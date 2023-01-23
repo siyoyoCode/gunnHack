@@ -32,16 +32,15 @@ struct IPhone11ProXFourView: View {
             RoundedRectangle(cornerRadius: 15)
                 .fill(ColorConstants.RedA700)
                 .frame(width: 140, height: 50)
-                .position(x: 188, y: 650)
-
-                .overlay(Button(action: { iPhone11ProXFourViewModel.nextScreen = "IPhone11ProXSixOneContainerView"},
-                                label: {
+                .position(x: 0, y: 0)
+                .overlay(Button(action: { iPhone11ProXFourViewModel.nextScreen = "Feed"},
+                    label: {
                     Text("NEXT").foregroundColor(ColorConstants.WhiteA700)
                         .font(FontScheme.kMontserratBold(size: getRelativeHeight(15.0)))
-                        .position(x: 188, y: 650)
-                })
+                        .position(x: 0, y: 0)
+                    })
                 )
-
+                .position(x: 375, y: 1000)
 
             LazyVGrid(columns: layout, content: {
             ForEach(headers, id: \.self) { header in
