@@ -8,12 +8,7 @@ struct IPhone11ProXOneTwoView: View {
             VStack {
                 Image("img_myunilifelan")
                     .resizable()
-                    .frame(width: 300, height: getRelativeHeight(173.0),
-                           alignment: .center)
-                    .scaledToFit()
-                    .clipped()
-                    .background(RoundedCorners(topLeft: 39.0, topRight: 39.0, bottomLeft: 39.0,
-                                               bottomRight: 39.0))
+                    .aspectRatio(contentMode: .fit)
                 Text(StringConstants.kMsgAClubExperien)
                     .font(FontScheme.kMontserratRomanRegular(size: getRelativeHeight(30.0)))
                     .fontWeight(.regular)
@@ -22,7 +17,6 @@ struct IPhone11ProXOneTwoView: View {
                     .multilineTextAlignment(.center)
                     .frame(width: getRelativeWidth(277.0), height: getRelativeHeight(90.0))
                     .padding(.top, getRelativeHeight(50.0))
-                    .padding(.horizontal, getRelativeWidth(22.0))
 
                 
                 Button(action: {
