@@ -14,44 +14,9 @@ struct IPhone11ProXSixOneContainerView: View {
         
         NavigationView {
             VStack {
-//                VStack(alignment: .leading, spacing: 0) {
-//                    Text("Content")
-//                        .minimumScaleFactor(0.5)
-//                        .multilineTextAlignment(.leading)
-//                        .frame(width: UIScreen.main.bounds.width, height: getRelativeHeight(789.0))
-//                    Text("tabbar")
-//                        .minimumScaleFactor(0.5)
-//                        .multilineTextAlignment(.leading)
-//                        .frame(width: UIScreen.main.bounds.width - 20,
-//                               height: getRelativeHeight(85.0), alignment: .center)
-//                        .background(ColorConstants.WhiteA700)
-//                }
-//                .frame(width: UIScreen.main.bounds.width, alignment: .topLeading)
-//                .background(ColorConstants.WhiteA700)
-//                .padding(.top, getRelativeHeight(30.0))
-//                .padding(.bottom, getRelativeHeight(10.0))
-//                Group {
-//                    NavigationLink(destination: IPhone11ProXTwentyThreeView(),
-//                                   tag: "IPhone11ProXTwentyThreeView",
-//                                   selection: $iPhone11ProXSixOneContainerViewModel.nextScreen,
-//                                   label: {
-//                                       EmptyView()
-//                                   })
-//                    NavigationLink(destination: IPhone11ProXTwentySixView(),
-//                                   tag: "IPhone11ProXTwentySixView",
-//                                   selection: $iPhone11ProXSixOneContainerViewModel.nextScreen,
-//                                   label: {
-//                                       EmptyView()
-//                                   })
-//                    NavigationLink(destination: IPhone11ProXSixteenView(),
-//                                   tag: "IPhone11ProXSixteenView",
-//                                   selection: $iPhone11ProXSixOneContainerViewModel.nextScreen,
-//                                   label: {
-//                                       EmptyView()
-//                                   })
-//                }
                 
                 NavigationView {
+                    
                     ScrollView {
                         LazyVGrid(columns: [ // these are the columns
                             GridItem(.flexible(minimum:125, maximum:125), spacing:10, alignment: .top),
@@ -62,11 +27,13 @@ struct IPhone11ProXSixOneContainerView: View {
                             // copy and pasted to create two items in the row
                                 ForEach (Club.allClubs, id: \.name) { club in
                                     Button(action: {
-                                        showPopup.toggle()
-                                        clubnm = "\(club.name)"
-                                        clubmtng = "\(club.meetingDay)"
-                                        clubDesc = "\(club.description)"
-                                        clubPres = "\(club.clubPres)"
+                                        withAnimation {
+                                            showPopup.toggle()
+                                            clubnm = "\(club.name)"
+                                            clubmtng = "\(club.meetingDay)"
+                                            clubDesc = "\(club.description)"
+                                            clubPres = "\(club.clubPres)"
+                                        }
                                         //clubDay = "\(club.meetingDay)"
                                         //Text("hi")
                                         //indClubView(show: $showPopup)
@@ -100,13 +67,14 @@ struct IPhone11ProXSixOneContainerView: View {
                                 .shadow(color:Color.black.opacity(0.3), radius:2, x:5, y:8)
                                 //.border(ColorConstants.RedA700, width: 4.0)
                                 //.cornerRadius(10)
-                                .overlay(RoundedRectangle(cornerRadius: 10).stroke(lineWidth:4).foregroundColor(ColorConstants.RedA700))
+                                .overlay(RoundedRectangle(cornerRadius: 10).stroke(lineWidth:4)
+                                    .foregroundColor(ColorConstants.RedA700))
                                     
                                 
                             }
                            
                                            }).padding(.horizontal,12)
-                    }.navigationTitle("Gunn Club Hub")
+                    }.navigationTitle("Discover")
 
                 }
                 if (showPopup) {
@@ -114,7 +82,7 @@ struct IPhone11ProXSixOneContainerView: View {
                 }
             }
             .frame(width: UIScreen.main.bounds.width, height: UIScreen.main.bounds.height)
-            .background(ColorConstants.Red700)
+            //.background(ColorConstants.Red700)
             
             .ignoresSafeArea()
             .hideNavigationBar()
@@ -135,7 +103,7 @@ struct indClubView : View {
         ZStack (alignment: Alignment(horizontal: .trailing, vertical: .top)) {
             VStack (alignment: .leading, spacing: 25) {
                 Spacer()
-                    .frame(width: 100, height: 50)
+                    .frame(width: 100, height: 30)
                 Text("\(clubName)").font(.system(size: 35, weight: .bold))
                     .padding(10)
                     .lineLimit(4)
@@ -156,29 +124,47 @@ struct indClubView : View {
                     .foregroundColor(ColorConstants.Black900)
                     .padding(10)
                     .lineLimit(4)
-//                Text("\(clubPres)").font(.system(size: 50))
-//                    //.padding(.vertical, 10)
-//                    .lineLimit(4)
+
                 Spacer()
                     .frame(width:100, height: 50)
+                
+               
             }
+            .padding(.vertical, 15)
+            .padding(.horizontal,30)
+            .background(BlurView())
+            .cornerRadius(25)
             
             Button(action: {
-                show.toggle()
+                withAnimation {
+                    show.toggle()
+                }
             }) {
                 Text("BACK")
                     
                     .font(FontScheme.kMontserratBold(size: getRelativeHeight(20)))
                     .padding(20)
-                    
-            }.foregroundColor(ColorConstants.Red700)
-            
+            }
+            .foregroundColor(ColorConstants.Red700)
         }
-        .background(ColorConstants.WhiteA700)
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .background(
+            Color.primary.opacity(0.05))
             //.padding(250)
         
         
         
+        
+    }
+}
+
+struct BlurView : UIViewRepresentable {
+    func makeUIView(context: Context) -> UIVisualEffectView {
+        let view = UIVisualEffectView(effect: UIBlurEffect(style: .systemUltraThinMaterial))
+        return view
+    }
+    
+    func updateUIView(_ uiView: UIVisualEffectView, context: Context) {
         
     }
 }
@@ -188,3 +174,7 @@ struct IPhone11ProXSixOneContainerView_Previews: PreviewProvider {
         IPhone11ProXSixOneContainerView()
     }
 }
+
+//struct filterDropdown : View {
+//
+//}
