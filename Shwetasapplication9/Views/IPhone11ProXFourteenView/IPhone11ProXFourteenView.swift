@@ -1,5 +1,5 @@
 import SwiftUI
-
+// START HERE!
 struct IPhone11ProXFourteenView: View {
     @StateObject var iPhone11ProXFourteenViewModel = IPhone11ProXFourteenViewModel()
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
@@ -91,7 +91,7 @@ struct IPhone11ProXFourteenView: View {
                                        .groupthirtyonePicker1) {
                                 ForEach(iPhone11ProXFourteenViewModel.groupthirtyonePicker1Values,
                                         id: \.self) { value in
-                                    Text(value)
+                                    Text("value")
                                 }
                             }
                             .foregroundColor(ColorConstants.Lime900)

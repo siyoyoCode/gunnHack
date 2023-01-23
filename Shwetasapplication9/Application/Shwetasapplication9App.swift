@@ -10,7 +10,8 @@ struct Shwetasapplication9App: App {
 
     var body: some Scene {
         WindowGroup {
-            IPhone11ProXOneTwoView()
+            IPhone11ProXOneTwoView() // this is the beginning of everything!
+            
         }
     }
 }

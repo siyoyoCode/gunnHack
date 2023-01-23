@@ -1,5 +1,5 @@
 import SwiftUI
-// login page
+
 struct IPhone11ProXTwoView: View {
     @StateObject var iPhone11ProXTwoViewModel = IPhone11ProXTwoViewModel()
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
@@ -8,9 +8,10 @@ struct IPhone11ProXTwoView: View {
             VStack {
                 VStack(alignment: .leading, spacing: 0) {
                     Text(StringConstants.kLblGunnTitans)
-                        .font(FontScheme.kMontserratRomanMedium(size: getRelativeHeight(16.0)))
+                        .font(FontScheme.kMontserratBold(size: getRelativeHeight(30)))
                         .fontWeight(.medium)
                         .foregroundColor(ColorConstants.WhiteA700)
+                        .offset(x:90)
                         .minimumScaleFactor(0.5)
                         .multilineTextAlignment(.leading)
                         .frame(width: getRelativeWidth(111.0), height: getRelativeHeight(16.0),
@@ -22,6 +23,7 @@ struct IPhone11ProXTwoView: View {
                         .frame(width: getRelativeWidth(175.0), height: getRelativeHeight(168.0),
                                alignment: .center)
                         .scaledToFit()
+                        .offset(x:30)
                         .clipped()
                         .padding(.top, getRelativeHeight(42.0))
                         .padding(.horizontal, getRelativeWidth(43.0))
@@ -39,7 +41,7 @@ struct IPhone11ProXTwoView: View {
                         TextField("", text: $iPhone11ProXTwoViewModel.rectangleoneText)
                             .padding()
                     }
-                    .frame(width: getRelativeWidth(290.0), height: getRelativeHeight(38.0),
+                    .frame(width: getRelativeWidth(225.0), height: getRelativeHeight(38.0),
                            alignment: .center)
                     .background(ColorConstants.WhiteA700)
                     .padding(.top, getRelativeHeight(14.0))
@@ -56,7 +58,7 @@ struct IPhone11ProXTwoView: View {
                         .padding(.horizontal, getRelativeWidth(43.0))
                     ZStack {}
                         .hideNavigationBar()
-                        .frame(width: getRelativeWidth(290.0), height: getRelativeHeight(38.0),
+                        .frame(width: getRelativeWidth(225.0), height: getRelativeHeight(38.0),
                                alignment: .center)
                         .background(ColorConstants.WhiteA700)
                         .padding(.top, getRelativeHeight(15.0))
@@ -64,24 +66,10 @@ struct IPhone11ProXTwoView: View {
                     Button(action: {
                         iPhone11ProXTwoViewModel.nextScreen = "FrameTwelveView"
                     }, label: {
-                        HStack(spacing: 0) {
-                            Text(StringConstants.kLblLogIn)
-                                .font(FontScheme
-                                    .kMontserratRomanBold(size: getRelativeHeight(15.0)))
-                                .fontWeight(.bold)
-                                .padding(.horizontal, getRelativeWidth(30.0))
-                                .padding(.vertical, getRelativeHeight(22.0))
-                                .foregroundColor(ColorConstants.WhiteA700)
-                                .minimumScaleFactor(0.5)
-                                .multilineTextAlignment(.center)
-                                .frame(width: getRelativeWidth(150.0),
-                                       height: getRelativeHeight(62.0), alignment: .center)
-                                .background(RoundedCorners(topLeft: 12.0, topRight: 12.0,
-                                                           bottomLeft: 12.0, bottomRight: 12.0)
-                                        .fill(ColorConstants.RedA700))
-                                .padding(.top, getRelativeHeight(49.0))
-                                .padding(.horizontal, getRelativeWidth(43.0))
-                        }
+                        Text("NEXT").foregroundColor(ColorConstants.WhiteA700)
+                            .font(FontScheme.kMontserratBold(size: getRelativeHeight(20)))
+                            .position(x: 85, y: 30)
+            
                     })
                     .frame(width: getRelativeWidth(150.0), height: getRelativeHeight(62.0),
                            alignment: .center)

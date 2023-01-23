@@ -3,58 +3,27 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00AE173C7A5FB84406388B92 /* IPhone11ProXTwentySevenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CA258820BC4CC2BB5501DB0 /* IPhone11ProXTwentySevenView.swift */; };
-		02312715BA4ACC53B0C54E9A /* FrameElevenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F04FF4FADD3524F379064D /* FrameElevenView.swift */; };
-		02B41C15CD88F294D1A987F2 /* IPhone11ProXEight1ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609A0E98A858CF19895247F6 /* IPhone11ProXEight1ViewModel.swift */; };
 		0AE721C36AB24476389A4112 /* MontserratMedium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DACC6815FAF7E49DA2A221BF /* MontserratMedium.ttf */; };
-		0F222CBDF4AE406073E0CFA1 /* RowrectangletwentynineCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4253FB335E736915EE7FB68 /* RowrectangletwentynineCell.swift */; };
-		0FBAC2B5E00B8D633260C19B /* IPhone11ProXTwentyFourView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1374FC098EE3AB4FDA86F89E /* IPhone11ProXTwentyFourView.swift */; };
-		14DD88D4805536538C7C4D87 /* StackcreatefromfraCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C14A2D32771F0340326CDBC7 /* StackcreatefromfraCell.swift */; };
-		174AEF9CCDF1F61222B44820 /* IPhone11ProXFourteenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7B3003A7AC09AA56D0D86AF /* IPhone11ProXFourteenViewModel.swift */; };
-		19FE10805EBB60D730014710 /* IPhone11ProXEight1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CCB8A67761537E78DE76EA /* IPhone11ProXEight1View.swift */; };
-		1B86F6581AF035A897678010 /* Eventname1Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8BDCD47B5355652E988688 /* Eventname1Cell.swift */; };
-		1BB6C96C8160BBF5FB980E9A /* Eventname4Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BAF10BE5133EFBD6259A0D /* Eventname4Cell.swift */; };
-		1D89A584C5609853825DC7A7 /* Eventname3Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC0FF37A9AEB6ADDD3AAF728 /* Eventname3Cell.swift */; };
-		1FDB912C8DEC496652943675 /* IPhone11ProXSevenTwoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D2BF410699AE7BEB0224DCE /* IPhone11ProXSevenTwoViewModel.swift */; };
-		2264A82FD8BC17B1605FFAEC /* IPhone11ProXSixOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C2D2B348396FE78A289BD8 /* IPhone11ProXSixOneView.swift */; };
-		2371A5C3F899B8EF6F303CA4 /* IPhone11ProXSixteenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 991B0254FAA66562BFDCA444 /* IPhone11ProXSixteenViewModel.swift */; };
-		27E9FE7BA7A5396777271EBF /* Eventname2Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31AD14BC9F9ACE24C805A982 /* Eventname2Cell.swift */; };
-		284580E3BF6B08823928C06E /* Hobby2Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2063B3C7B20CFDC605CD25 /* Hobby2Cell.swift */; };
-		290999617ED08F685A4462B1 /* IPhone11ProXFourViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 270063991FB49DBE68F1880C /* IPhone11ProXFourViewModel.swift */; };
-		31DF84A370D5A938A7C9920F /* ColumnCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20632279A85630A19372159D /* ColumnCell.swift */; };
-		3387BA8A9C00E24D6A46CC01 /* IPhone11ProXTwentyOne1ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2749E5DC6B54D6106CF9DA /* IPhone11ProXTwentyOne1ViewModel.swift */; };
-		33CAD54B5A7F1C508AD9C80E /* MenupopupThreeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DDCAFBFA074DBACA5C728D1 /* MenupopupThreeViewModel.swift */; };
-		43CCABB201808A954E5DE4CD /* IPhone11ProXTwentyThreeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C2974435482B277CC22BD09 /* IPhone11ProXTwentyThreeViewModel.swift */; };
-		4C84C662131F90E8AAC76053 /* IPhone11ProXSevenTwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5283354AE67EE5FA48A24D1 /* IPhone11ProXSevenTwoView.swift */; };
-		514A9471421AFA11EE770F73 /* IPhone11ProXTenOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DACF2778AC9F22B9B69ECB7 /* IPhone11ProXTenOneView.swift */; };
-		52C47B8F16AE589FC1EABBF4 /* IPhone11ProXTwentySixViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA272322550F91E68B2E4EA8 /* IPhone11ProXTwentySixViewModel.swift */; };
+		16D16B2A297DBA9200751ABA /* test3.json in Resources */ = {isa = PBXBuildFile; fileRef = 16D16B29297DBA9200751ABA /* test3.json */; };
+		16D16B2C297DBADD00751ABA /* JSONManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D16B2B297DBADD00751ABA /* JSONManager.swift */; };
+		16D16B2E297DC1AD00751ABA /* clubRenderTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D16B2D297DC1AD00751ABA /* clubRenderTest.swift */; };
+		16D16B36297DFD2600751ABA /* FrameTwelveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D16B35297DFD2600751ABA /* FrameTwelveView.swift */; };
+		16D16B38297DFD3200751ABA /* IPhone11ProXTwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D16B37297DFD3200751ABA /* IPhone11ProXTwoView.swift */; };
+		16D16B3A297DFD3500751ABA /* IPhone11ProXOneTwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D16B39297DFD3500751ABA /* IPhone11ProXOneTwoView.swift */; };
+		16D16B3C297DFD6200751ABA /* FrameTwelveViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D16B3B297DFD6200751ABA /* FrameTwelveViewModel.swift */; };
+		16D16B3E297DFD6600751ABA /* IPhone11ProXTwoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D16B3D297DFD6600751ABA /* IPhone11ProXTwoViewModel.swift */; };
+		16D16B40297DFD6800751ABA /* IPhone11ProXOneTwoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D16B3F297DFD6800751ABA /* IPhone11ProXOneTwoViewModel.swift */; };
+		16D16B45297DFDA800751ABA /* IPhone11ProXFourViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D16B44297DFDA800751ABA /* IPhone11ProXFourViewModel.swift */; };
+		16D16B46297DFDA800751ABA /* IPhone11ProXFourView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D16B43297DFDA800751ABA /* IPhone11ProXFourView.swift */; };
+		16D16B48297DFDAE00751ABA /* Hobby3Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D16B47297DFDAE00751ABA /* Hobby3Cell.swift */; };
 		567C911F528D459B2D538C1A /* MontserratRomanRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 87212F85F94E93B0E6E58FAD /* MontserratRomanRegular.ttf */; };
-		58EDF00C041F65344FD1134B /* IPhone11ProXTwentyOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CF6611ACE2F3F95BC2BF811 /* IPhone11ProXTwentyOneViewModel.swift */; };
-		5E5DFCEF69A6DE4FF678E5DA /* EventnameCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49BDC8ADB403F9483E9BEFDA /* EventnameCell.swift */; };
-		5F1FD37580D0F2B1060EA64B /* FrameTenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0AA5DFAD3F6ACA3AA729F8 /* FrameTenViewModel.swift */; };
-		63F7691FB4BFB7BE5563763C /* IPhone11ProXOneTwoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0E193A7E12221AB8AF41FB /* IPhone11ProXOneTwoViewModel.swift */; };
-		67ADDFD2E0D2E78857302765 /* IPhone11ProXFourView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E10A4642247B371039E86AA /* IPhone11ProXFourView.swift */; };
-		69C37290B3FDFF0695168EB6 /* IPhone11ProXNineteenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F174A9BACA9A3604E1D6F0B2 /* IPhone11ProXNineteenViewModel.swift */; };
-		6B196E626F91B3B64E861F6E /* IPhone11ProXFifteenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5F439DC349CC05C30295B8F /* IPhone11ProXFifteenViewModel.swift */; };
-		6DD1B6B95AA952E1E99FB6AE /* IPhone11ProXThirteenOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAB7F9ED8026288850B9335 /* IPhone11ProXThirteenOneViewModel.swift */; };
-		6F5EDC57247681D5393541F4 /* MenupopupOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B32228B3CE4151F82E46B786 /* MenupopupOneViewModel.swift */; };
 		7011228A799F228A7E2B2D5B /* MontserratRomanMedium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4ED5C962E781ECEF8413B9CA /* MontserratRomanMedium.ttf */; };
-		74D3EB9064B88350C5039684 /* Rowrectangletwentynine1Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 192F7AF92BD5650787E7FDD3 /* Rowrectangletwentynine1Cell.swift */; };
-		756B61D9AD27F555A8BF7054 /* Hobby3Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B97D31E0E40E1B3C12EEE2EE /* Hobby3Cell.swift */; };
-		7681013235A81F064F5FF94F /* IPhone11ProXTwentyFourViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F80D5376E94665CAFA7E875 /* IPhone11ProXTwentyFourViewModel.swift */; };
-		776E4BFE551083291B6F198B /* IPhone11ProXTwentyOne2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = C610B058FA9E9CEA7A7FEB37 /* IPhone11ProXTwentyOne2View.swift */; };
-		77EF8DF05B4E4BD67428EF07 /* IPhone11ProXNineteenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C7EFA2D25F9C6AEEF516DBA /* IPhone11ProXNineteenView.swift */; };
-		7CF5B69A5F339FE96AD66E56 /* IPhone11ProXEighteenOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED9374E1C4D5FD0F6FC966FC /* IPhone11ProXEighteenOneViewModel.swift */; };
 		7F44DBA127422A5D00171570 /* ActivityLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F44DBA027422A5D00171570 /* ActivityLoader.swift */; };
 		820D482A58CB13674206AE61 /* ColorConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA75511EE982D3F520644C9 /* ColorConstants.swift */; };
-		823C839E296237E84A0406CD /* IPhone11ProXTwentyOne1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = F902D26FF06B53E9EE9F02E6 /* IPhone11ProXTwentyOne1View.swift */; };
-		82F0A22EC603747A1EB8AC31 /* HobbyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4BAD70A6919B831E6D5E7C0 /* HobbyCell.swift */; };
-		8301676BA29C724E03ECDF97 /* IPhone11ProXNine1ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228DA5E495CAE0910FF85F5C /* IPhone11ProXNine1ViewModel.swift */; };
-		87AF7062A49705E7AFE8B7B1 /* IPhone11ProXSixteenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CCF82B794C8B88B1A5FD121 /* IPhone11ProXSixteenView.swift */; };
 		884F3E5127B0E65A00963FC4 /* RoundedCornersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884F3E5027B0E65A00963FC4 /* RoundedCornersView.swift */; };
 		8853052627718DC500B04E6F /* ViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8853052527718DC500B04E6F /* ViewExtension.swift */; };
 		8853052A27718E2D00B04E6F /* EncodableExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8853052927718E2D00B04E6F /* EncodableExtension.swift */; };
@@ -67,101 +36,49 @@
 		88ED7501272FFECA0088E3EF /* AppConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED74F9272FFECA0088E3EF /* AppConstants.swift */; };
 		88ED7503272FFECA0088E3EF /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED74FD272FFECA0088E3EF /* APIManager.swift */; };
 		88ED7504272FFECA0088E3EF /* Shwetasapplication9App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED74FF272FFECA0088E3EF /* Shwetasapplication9App.swift */; };
-		8C06582E0EDE268F4593DABF /* MenupopupOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB546EA7BD992CFA6BE55008 /* MenupopupOneView.swift */; };
-		8D53E295659956ACB437AF21 /* IPhone11ProXNine1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11A7FA507FCE201D6411AC57 /* IPhone11ProXNine1View.swift */; };
-		8E96E49143A7DF1BF6130FC1 /* MenupopupTwoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7B73203F954B874F8AB35A /* MenupopupTwoViewModel.swift */; };
 		96A161ED04C89457B99D6809 /* MontserratRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 569358363E158F8CC7E18897 /* MontserratRegular.ttf */; };
-		9A1CCB23325A10E0A664DD22 /* IPhone11ProXTwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CE56DD6C09FD6C0A26DD272 /* IPhone11ProXTwoView.swift */; };
-		9BA1CA4BA806AEA598A555F6 /* IPhone11ProXTwentyOne2ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED597F29E7AEBCE0AAC58C09 /* IPhone11ProXTwentyOne2ViewModel.swift */; };
 		9D6A332FE133440DEB1E1C42 /* TabsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35A399540112EDC86174E84 /* TabsView.swift */; };
-		A0D1B5B3A2119BCF57A3FA17 /* IPhone11ProXEighteenOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B366BF72A618B83E1B0AAD13 /* IPhone11ProXEighteenOneView.swift */; };
-		A2A90C50AD4C9A4F1C06A1AA /* IPhone11ProXTwentySevenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A6C9DA2CC2200B1B18C218 /* IPhone11ProXTwentySevenViewModel.swift */; };
-		A317BA7A5D04D6EC931798F6 /* IPhone11ProXOneTwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B5B02E861AB5F4C5AE0DF5C /* IPhone11ProXOneTwoView.swift */; };
-		A50D69808C148657F87A10CC /* MenupopupTwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FC38FB4E1963A4263997B0 /* MenupopupTwoView.swift */; };
 		A846CA5C06F8A7502C3CEACB /* CalendarModuleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC549CAA2B78F0E3AD1BBB3 /* CalendarModuleView.swift */; };
-		A8951A0BA095EFD1FB6817EE /* IPhone11ProXTwentySixView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DD24A514B622064C973BE76 /* IPhone11ProXTwentySixView.swift */; };
-		B068EACB1404CD36226D13E8 /* IPhone11ProXSixOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A34307A22BFB0A00E60DC0F /* IPhone11ProXSixOneViewModel.swift */; };
-		B4E897BBF7960DB6730BEB1A /* IPhone11ProXTwoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBEAA21C5CF83F164475BA95 /* IPhone11ProXTwoViewModel.swift */; };
-		B50C6B2532CC7321B69C165C /* IPhone11ProXTwentyThreeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D81EE03F90839D02BE402F49 /* IPhone11ProXTwentyThreeView.swift */; };
-		B52230F435268D0763C98404 /* FrameTenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F11146042BAC99B79ED785 /* FrameTenView.swift */; };
-		B5F4AA063059D1C47C492222 /* MenupopupThreeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE475682EF4E752AB65369D /* MenupopupThreeView.swift */; };
-		B72B9E3DE706AD6548447DC7 /* IPhone11ProXFourteenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2DFCE7E71057C2DCDB776D8 /* IPhone11ProXFourteenView.swift */; };
-		B94DD32ADFDBCCD4B63508AB /* FrameElevenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2130F9F5E38180ADE755841E /* FrameElevenViewModel.swift */; };
-		BA4C7A4B8DECA96A86A60AE3 /* IPhone11ProXTwentyOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E99CDDA222FF9442C0E3D155 /* IPhone11ProXTwentyOneView.swift */; };
-		BAC68359D8A8F8F1153B5107 /* Hobby1Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E9FE4E1C0F6381B0ADA51E /* Hobby1Cell.swift */; };
 		C40AB9F82754D79E006BC5D7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C40AB9F72754D79E006BC5D7 /* AppDelegate.swift */; };
 		C76C0F6F2010759B1325F3CD /* Pods_Shwetasapplication9.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 01BF2B6E92F7A92BECD5B36C /* Pods_Shwetasapplication9.framework */; };
-		C8866DE5723F1A48D8F00354 /* IPhone11ProXTwentyFiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B40F3961DF5FAE2E90E9642 /* IPhone11ProXTwentyFiveView.swift */; };
-		CA9A951E5E059401A4530312 /* IPhone11ProXTwentyFiveViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55683932B03E7D1F9E03326D /* IPhone11ProXTwentyFiveViewModel.swift */; };
 		CAEB3E6F55C76711F4A63035 /* PagerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8F8668DCB623E04A24B3581 /* PagerView.swift */; };
 		CF68393212D4EC3669EB4BC4 /* MontserratSemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 82829FD864C63A39A5D125E6 /* MontserratSemiBold.ttf */; };
-		D0690072EE8A1BD69AF668E2 /* RecommendationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3B21B794C33957A0EFDE0A1 /* RecommendationCell.swift */; };
 		D118CAD101C6ED909D65FD0F /* StringScheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 662349F4F5F0DC35397DE226 /* StringScheme.swift */; };
 		D5CA6AA05564609C146570C1 /* IPhone11ProXSixOneContainerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB764F02A4FE842D27B0246 /* IPhone11ProXSixOneContainerViewModel.swift */; };
-		D927C514C11F919D07A7E034 /* IPhone11ProXFifteenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37FB2973E8AEE5F3C71151C0 /* IPhone11ProXFifteenView.swift */; };
 		D9FD5D6153FAFD9E9AB7C916 /* MontserratAlternatesBlack.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2F05AD6387A37D82B8BEA1CC /* MontserratAlternatesBlack.ttf */; };
 		DC000BA08D1D72DD6602CCD0 /* FontScheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFE990AE38A1E9E0B935515 /* FontScheme.swift */; };
-		E01EB3907DB1F0347DDE2646 /* FrameTwelveViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44FC2DF89C3E5CB2CD1604FF /* FrameTwelveViewModel.swift */; };
 		E71C44908DC2BEF4244A2046 /* MontserratRomanBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E429516325CF9BEFBDE21D9A /* MontserratRomanBold.ttf */; };
-		EA0DACD1BAC10F67A1A9A1C1 /* FrameTwelveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B083B56D80AECC27CE5F5B /* FrameTwelveView.swift */; };
 		EDB50421B77E7516DB84F137 /* IPhone11ProXSixOneContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D3AA3C3C02ABB018C542B4D /* IPhone11ProXSixOneContainerView.swift */; };
-		EEF1B8D18CDC3F3EFEFF7736 /* IPhone11ProXThirteenOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F07CCFD441B637FF690E503 /* IPhone11ProXThirteenOneView.swift */; };
 		F03E9D4B9592697CE706043D /* MontserratBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A6D11BE4808886A473E91E48 /* MontserratBold.ttf */; };
-		F6002BB4E37DF666D6D4980E /* IPhone11ProXTenOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EF78B0A6CBC9E9CC4CEE06E /* IPhone11ProXTenOneViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		00B083B56D80AECC27CE5F5B /* FrameTwelveView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = FrameTwelveView.swift; sourceTree = "<group>"; };
 		01BF2B6E92F7A92BECD5B36C /* Pods_Shwetasapplication9.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Shwetasapplication9.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		0B5B02E861AB5F4C5AE0DF5C /* IPhone11ProXOneTwoView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXOneTwoView.swift; sourceTree = "<group>"; };
-		0CCF82B794C8B88B1A5FD121 /* IPhone11ProXSixteenView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXSixteenView.swift; sourceTree = "<group>"; };
-		0CF6611ACE2F3F95BC2BF811 /* IPhone11ProXTwentyOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentyOneViewModel.swift; sourceTree = "<group>"; };
-		11A7FA507FCE201D6411AC57 /* IPhone11ProXNine1View.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXNine1View.swift; sourceTree = "<group>"; };
-		1374FC098EE3AB4FDA86F89E /* IPhone11ProXTwentyFourView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentyFourView.swift; sourceTree = "<group>"; };
-		192F7AF92BD5650787E7FDD3 /* Rowrectangletwentynine1Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Rowrectangletwentynine1Cell.swift; sourceTree = "<group>"; };
-		20632279A85630A19372159D /* ColumnCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ColumnCell.swift; sourceTree = "<group>"; };
-		2130F9F5E38180ADE755841E /* FrameElevenViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = FrameElevenViewModel.swift; sourceTree = "<group>"; };
-		228DA5E495CAE0910FF85F5C /* IPhone11ProXNine1ViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXNine1ViewModel.swift; sourceTree = "<group>"; };
+		16D16B29297DBA9200751ABA /* test3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = test3.json; path = ../../../../../Downloads/test3.json; sourceTree = "<group>"; };
+		16D16B2B297DBADD00751ABA /* JSONManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONManager.swift; sourceTree = "<group>"; };
+		16D16B2D297DC1AD00751ABA /* clubRenderTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = clubRenderTest.swift; sourceTree = "<group>"; };
+		16D16B35297DFD2600751ABA /* FrameTwelveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameTwelveView.swift; sourceTree = "<group>"; };
+		16D16B37297DFD3200751ABA /* IPhone11ProXTwoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwoView.swift; sourceTree = "<group>"; };
+		16D16B39297DFD3500751ABA /* IPhone11ProXOneTwoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPhone11ProXOneTwoView.swift; sourceTree = "<group>"; };
+		16D16B3B297DFD6200751ABA /* FrameTwelveViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameTwelveViewModel.swift; sourceTree = "<group>"; };
+		16D16B3D297DFD6600751ABA /* IPhone11ProXTwoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwoViewModel.swift; sourceTree = "<group>"; };
+		16D16B3F297DFD6800751ABA /* IPhone11ProXOneTwoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPhone11ProXOneTwoViewModel.swift; sourceTree = "<group>"; };
+		16D16B43297DFDA800751ABA /* IPhone11ProXFourView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPhone11ProXFourView.swift; sourceTree = "<group>"; };
+		16D16B44297DFDA800751ABA /* IPhone11ProXFourViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPhone11ProXFourViewModel.swift; sourceTree = "<group>"; };
+		16D16B47297DFDAE00751ABA /* Hobby3Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hobby3Cell.swift; sourceTree = "<group>"; };
 		2382BAD887CF6220267591FF /* Pods-Shwetasapplication9.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Shwetasapplication9.debug.xcconfig"; path = "Target Support Files/Pods-Shwetasapplication9/Pods-Shwetasapplication9.debug.xcconfig"; sourceTree = "<group>"; };
-		270063991FB49DBE68F1880C /* IPhone11ProXFourViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXFourViewModel.swift; sourceTree = "<group>"; };
-		2F05AD6387A37D82B8BEA1CC /* MontserratAlternatesBlack.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = MontserratAlternatesBlack.ttf; sourceTree = "<group>"; };
-		31AD14BC9F9ACE24C805A982 /* Eventname2Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Eventname2Cell.swift; sourceTree = "<group>"; };
-		37FB2973E8AEE5F3C71151C0 /* IPhone11ProXFifteenView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXFifteenView.swift; sourceTree = "<group>"; };
-		3C2974435482B277CC22BD09 /* IPhone11ProXTwentyThreeViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentyThreeViewModel.swift; sourceTree = "<group>"; };
-		3C7EFA2D25F9C6AEEF516DBA /* IPhone11ProXNineteenView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXNineteenView.swift; sourceTree = "<group>"; };
-		3E10A4642247B371039E86AA /* IPhone11ProXFourView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXFourView.swift; sourceTree = "<group>"; };
-		3F80D5376E94665CAFA7E875 /* IPhone11ProXTwentyFourViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentyFourViewModel.swift; sourceTree = "<group>"; };
+		2F05AD6387A37D82B8BEA1CC /* MontserratAlternatesBlack.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = MontserratAlternatesBlack.ttf; sourceTree = "<group>"; };
 		3FFE990AE38A1E9E0B935515 /* FontScheme.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = FontScheme.swift; sourceTree = "<group>"; };
-		44FC2DF89C3E5CB2CD1604FF /* FrameTwelveViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = FrameTwelveViewModel.swift; sourceTree = "<group>"; };
-		49BDC8ADB403F9483E9BEFDA /* EventnameCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = EventnameCell.swift; sourceTree = "<group>"; };
-		4ED5C962E781ECEF8413B9CA /* MontserratRomanMedium.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = MontserratRomanMedium.ttf; sourceTree = "<group>"; };
-		55683932B03E7D1F9E03326D /* IPhone11ProXTwentyFiveViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentyFiveViewModel.swift; sourceTree = "<group>"; };
-		569358363E158F8CC7E18897 /* MontserratRegular.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = MontserratRegular.ttf; sourceTree = "<group>"; };
-		5A34307A22BFB0A00E60DC0F /* IPhone11ProXSixOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXSixOneViewModel.swift; sourceTree = "<group>"; };
-		5B40F3961DF5FAE2E90E9642 /* IPhone11ProXTwentyFiveView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentyFiveView.swift; sourceTree = "<group>"; };
-		5C7B73203F954B874F8AB35A /* MenupopupTwoViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = MenupopupTwoViewModel.swift; sourceTree = "<group>"; };
-		5C8BDCD47B5355652E988688 /* Eventname1Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Eventname1Cell.swift; sourceTree = "<group>"; };
+		4ED5C962E781ECEF8413B9CA /* MontserratRomanMedium.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = MontserratRomanMedium.ttf; sourceTree = "<group>"; };
+		569358363E158F8CC7E18897 /* MontserratRegular.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = MontserratRegular.ttf; sourceTree = "<group>"; };
 		5CA75511EE982D3F520644C9 /* ColorConstants.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ColorConstants.swift; sourceTree = "<group>"; };
-		5F07CCFD441B637FF690E503 /* IPhone11ProXThirteenOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXThirteenOneView.swift; sourceTree = "<group>"; };
-		5F0E193A7E12221AB8AF41FB /* IPhone11ProXOneTwoViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXOneTwoViewModel.swift; sourceTree = "<group>"; };
-		609A0E98A858CF19895247F6 /* IPhone11ProXEight1ViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXEight1ViewModel.swift; sourceTree = "<group>"; };
 		662349F4F5F0DC35397DE226 /* StringScheme.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = StringScheme.swift; sourceTree = "<group>"; };
-		6CA258820BC4CC2BB5501DB0 /* IPhone11ProXTwentySevenView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentySevenView.swift; sourceTree = "<group>"; };
-		6D2BF410699AE7BEB0224DCE /* IPhone11ProXSevenTwoViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXSevenTwoViewModel.swift; sourceTree = "<group>"; };
 		6D3AA3C3C02ABB018C542B4D /* IPhone11ProXSixOneContainerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXSixOneContainerView.swift; sourceTree = "<group>"; };
-		6DACF2778AC9F22B9B69ECB7 /* IPhone11ProXTenOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTenOneView.swift; sourceTree = "<group>"; };
-		6DDCAFBFA074DBACA5C728D1 /* MenupopupThreeViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = MenupopupThreeViewModel.swift; sourceTree = "<group>"; };
-		6E2749E5DC6B54D6106CF9DA /* IPhone11ProXTwentyOne1ViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentyOne1ViewModel.swift; sourceTree = "<group>"; };
-		78CCB8A67761537E78DE76EA /* IPhone11ProXEight1View.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXEight1View.swift; sourceTree = "<group>"; };
-		7AAB7F9ED8026288850B9335 /* IPhone11ProXThirteenOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXThirteenOneViewModel.swift; sourceTree = "<group>"; };
 		7BB764F02A4FE842D27B0246 /* IPhone11ProXSixOneContainerViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXSixOneContainerViewModel.swift; sourceTree = "<group>"; };
-		7CE56DD6C09FD6C0A26DD272 /* IPhone11ProXTwoView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwoView.swift; sourceTree = "<group>"; };
-		7DD24A514B622064C973BE76 /* IPhone11ProXTwentySixView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentySixView.swift; sourceTree = "<group>"; };
 		7F44DBA027422A5D00171570 /* ActivityLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityLoader.swift; sourceTree = "<group>"; };
 		7FC549CAA2B78F0E3AD1BBB3 /* CalendarModuleView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CalendarModuleView.swift; sourceTree = "<group>"; };
-		82829FD864C63A39A5D125E6 /* MontserratSemiBold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = MontserratSemiBold.ttf; sourceTree = "<group>"; };
-		84F11146042BAC99B79ED785 /* FrameTenView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = FrameTenView.swift; sourceTree = "<group>"; };
-		87212F85F94E93B0E6E58FAD /* MontserratRomanRegular.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = MontserratRomanRegular.ttf; sourceTree = "<group>"; };
+		82829FD864C63A39A5D125E6 /* MontserratSemiBold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = MontserratSemiBold.ttf; sourceTree = "<group>"; };
+		87212F85F94E93B0E6E58FAD /* MontserratRomanRegular.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = MontserratRomanRegular.ttf; sourceTree = "<group>"; };
 		884F3E5027B0E65A00963FC4 /* RoundedCornersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedCornersView.swift; sourceTree = "<group>"; };
 		8853052527718DC500B04E6F /* ViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewExtension.swift; sourceTree = "<group>"; };
 		8853052927718E2D00B04E6F /* EncodableExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EncodableExtension.swift; sourceTree = "<group>"; };
@@ -176,46 +93,13 @@
 		88ED74F9272FFECA0088E3EF /* AppConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
 		88ED74FD272FFECA0088E3EF /* APIManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
 		88ED74FF272FFECA0088E3EF /* Shwetasapplication9App.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Shwetasapplication9App.swift; sourceTree = "<group>"; };
-		8A0AA5DFAD3F6ACA3AA729F8 /* FrameTenViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = FrameTenViewModel.swift; sourceTree = "<group>"; };
-		8EF78B0A6CBC9E9CC4CEE06E /* IPhone11ProXTenOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTenOneViewModel.swift; sourceTree = "<group>"; };
-		991B0254FAA66562BFDCA444 /* IPhone11ProXSixteenViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXSixteenViewModel.swift; sourceTree = "<group>"; };
 		9FC27237101A96C6DCD67636 /* Pods-Shwetasapplication9.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Shwetasapplication9.release.xcconfig"; path = "Target Support Files/Pods-Shwetasapplication9/Pods-Shwetasapplication9.release.xcconfig"; sourceTree = "<group>"; };
-		A6D11BE4808886A473E91E48 /* MontserratBold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = MontserratBold.ttf; sourceTree = "<group>"; };
-		A8C2D2B348396FE78A289BD8 /* IPhone11ProXSixOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXSixOneView.swift; sourceTree = "<group>"; };
-		B32228B3CE4151F82E46B786 /* MenupopupOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = MenupopupOneViewModel.swift; sourceTree = "<group>"; };
-		B366BF72A618B83E1B0AAD13 /* IPhone11ProXEighteenOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXEighteenOneView.swift; sourceTree = "<group>"; };
-		B5283354AE67EE5FA48A24D1 /* IPhone11ProXSevenTwoView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXSevenTwoView.swift; sourceTree = "<group>"; };
-		B6E9FE4E1C0F6381B0ADA51E /* Hobby1Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Hobby1Cell.swift; sourceTree = "<group>"; };
-		B97D31E0E40E1B3C12EEE2EE /* Hobby3Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Hobby3Cell.swift; sourceTree = "<group>"; };
-		BC0FF37A9AEB6ADDD3AAF728 /* Eventname3Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Eventname3Cell.swift; sourceTree = "<group>"; };
-		C14A2D32771F0340326CDBC7 /* StackcreatefromfraCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = StackcreatefromfraCell.swift; sourceTree = "<group>"; };
-		C2A6C9DA2CC2200B1B18C218 /* IPhone11ProXTwentySevenViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentySevenViewModel.swift; sourceTree = "<group>"; };
-		C3FC38FB4E1963A4263997B0 /* MenupopupTwoView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = MenupopupTwoView.swift; sourceTree = "<group>"; };
+		A6D11BE4808886A473E91E48 /* MontserratBold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = MontserratBold.ttf; sourceTree = "<group>"; };
 		C40AB9F72754D79E006BC5D7 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C5BAF10BE5133EFBD6259A0D /* Eventname4Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Eventname4Cell.swift; sourceTree = "<group>"; };
-		C610B058FA9E9CEA7A7FEB37 /* IPhone11ProXTwentyOne2View.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentyOne2View.swift; sourceTree = "<group>"; };
 		C8F8668DCB623E04A24B3581 /* PagerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PagerView.swift; sourceTree = "<group>"; };
-		D3B21B794C33957A0EFDE0A1 /* RecommendationCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = RecommendationCell.swift; sourceTree = "<group>"; };
-		D4253FB335E736915EE7FB68 /* RowrectangletwentynineCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = RowrectangletwentynineCell.swift; sourceTree = "<group>"; };
-		D4BAD70A6919B831E6D5E7C0 /* HobbyCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = HobbyCell.swift; sourceTree = "<group>"; };
-		D5F439DC349CC05C30295B8F /* IPhone11ProXFifteenViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXFifteenViewModel.swift; sourceTree = "<group>"; };
-		D7B3003A7AC09AA56D0D86AF /* IPhone11ProXFourteenViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXFourteenViewModel.swift; sourceTree = "<group>"; };
-		D7F04FF4FADD3524F379064D /* FrameElevenView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = FrameElevenView.swift; sourceTree = "<group>"; };
-		D81EE03F90839D02BE402F49 /* IPhone11ProXTwentyThreeView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentyThreeView.swift; sourceTree = "<group>"; };
-		DACC6815FAF7E49DA2A221BF /* MontserratMedium.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = MontserratMedium.ttf; sourceTree = "<group>"; };
-		DAE475682EF4E752AB65369D /* MenupopupThreeView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = MenupopupThreeView.swift; sourceTree = "<group>"; };
+		DACC6815FAF7E49DA2A221BF /* MontserratMedium.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = MontserratMedium.ttf; sourceTree = "<group>"; };
 		E35A399540112EDC86174E84 /* TabsView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = TabsView.swift; sourceTree = "<group>"; };
-		E429516325CF9BEFBDE21D9A /* MontserratRomanBold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = MontserratRomanBold.ttf; sourceTree = "<group>"; };
-		E99CDDA222FF9442C0E3D155 /* IPhone11ProXTwentyOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentyOneView.swift; sourceTree = "<group>"; };
-		EA272322550F91E68B2E4EA8 /* IPhone11ProXTwentySixViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentySixViewModel.swift; sourceTree = "<group>"; };
-		EBEAA21C5CF83F164475BA95 /* IPhone11ProXTwoViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwoViewModel.swift; sourceTree = "<group>"; };
-		ED597F29E7AEBCE0AAC58C09 /* IPhone11ProXTwentyOne2ViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentyOne2ViewModel.swift; sourceTree = "<group>"; };
-		ED9374E1C4D5FD0F6FC966FC /* IPhone11ProXEighteenOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXEighteenOneViewModel.swift; sourceTree = "<group>"; };
-		F174A9BACA9A3604E1D6F0B2 /* IPhone11ProXNineteenViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXNineteenViewModel.swift; sourceTree = "<group>"; };
-		F2DFCE7E71057C2DCDB776D8 /* IPhone11ProXFourteenView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXFourteenView.swift; sourceTree = "<group>"; };
-		F902D26FF06B53E9EE9F02E6 /* IPhone11ProXTwentyOne1View.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IPhone11ProXTwentyOne1View.swift; sourceTree = "<group>"; };
-		FA2063B3C7B20CFDC605CD25 /* Hobby2Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Hobby2Cell.swift; sourceTree = "<group>"; };
-		FB546EA7BD992CFA6BE55008 /* MenupopupOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = MenupopupOneView.swift; sourceTree = "<group>"; };
+		E429516325CF9BEFBDE21D9A /* MontserratRomanBold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = MontserratRomanBold.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -233,97 +117,19 @@
 		00D7B25FCC0BB1C35F4BAAC6 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				044D002848B821DA6CBC5314 /* IPhone11ProXSixOneView */,
-				BA1D9E3E96B935225FC7A6F0 /* IPhone11ProXThirteenOneView */,
-				3D311989BB64344ACA829313 /* IPhone11ProXTwentyFourView */,
-				1DDF66721D55F99AE0CFED75 /* IPhone11ProXOneTwoView */,
-				468347BAFD277E5728764C83 /* MenupopupOneView */,
-				AC366CE7F9E7AFA893E1FB98 /* FrameTwelveView */,
-				A2B50AA71836C2E36AE9A699 /* FrameTenView */,
-				967F2FB5CFFBD5143EC8E9A9 /* FrameElevenView */,
-				75CCB5CA68961204A7CCCA62 /* IPhone11ProXEighteenOneView */,
-				BED3B309859447A6DC8DA5B3 /* IPhone11ProXNineteenView */,
-				6B24D7AAA4AD86BA5188D6D7 /* IPhone11ProXTwentySevenView */,
-				DDEEA164B428CE077849D6B7 /* IPhone11ProXTwoView */,
-				97D8732C6ECAC110CD4A7AF8 /* IPhone11ProXFourView */,
-				2FAC9320AFBD9A7FCEADB00F /* IPhone11ProXEight1View */,
-				650B63747124BA95D3839609 /* IPhone11ProXNine1View */,
-				570AD8C7704CFAED5162A493 /* IPhone11ProXFourteenView */,
-				B5E81F89A6511B2DB3BCD2F7 /* IPhone11ProXSixteenView */,
-				D516C5CB0E76337825FE8B71 /* IPhone11ProXTenOneView */,
-				E5CD007E19DF58719254E72B /* IPhone11ProXFifteenView */,
-				86E46CDE6137EECC2390B181 /* IPhone11ProXTwentyOneView */,
-				83D91F27852A352ACC6D9884 /* IPhone11ProXTwentyOne1View */,
-				A534A5B00E5F5FA3D3AF7685 /* IPhone11ProXTwentyOne2View */,
-				BCEE0518CC74026C6121D4F8 /* IPhone11ProXSevenTwoView */,
-				AD2112C8D5B85E35B44AFD9F /* IPhone11ProXTwentyThreeView */,
-				9CF7E189B618F30205C1C047 /* IPhone11ProXTwentyFiveView */,
-				191C7705CE0E87238AC90EDC /* IPhone11ProXTwentySixView */,
-				B4C3D5F0860D961090F32641 /* MenupopupTwoView */,
-				D91B870AFA86A14120FBDC0B /* MenupopupThreeView */,
+				16D16B35297DFD2600751ABA /* FrameTwelveView.swift */,
+				16D16B43297DFDA800751ABA /* IPhone11ProXFourView.swift */,
+				16D16B44297DFDA800751ABA /* IPhone11ProXFourViewModel.swift */,
+				16D16B47297DFDAE00751ABA /* Hobby3Cell.swift */,
+				16D16B37297DFD3200751ABA /* IPhone11ProXTwoView.swift */,
+				16D16B39297DFD3500751ABA /* IPhone11ProXOneTwoView.swift */,
+				16D16B3B297DFD6200751ABA /* FrameTwelveViewModel.swift */,
+				16D16B3D297DFD6600751ABA /* IPhone11ProXTwoViewModel.swift */,
+				16D16B3F297DFD6800751ABA /* IPhone11ProXOneTwoViewModel.swift */,
 				C205FF020E04CE020AA80D7B /* IPhone11ProXSixOneContainerView */,
+				16D16B2D297DC1AD00751ABA /* clubRenderTest.swift */,
 			);
-			name = Views;
 			path = Views;
-			sourceTree = "<group>";
-		};
-		02FCE003A4BF67B3C7BDEDA4 /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				C5BAF10BE5133EFBD6259A0D /* Eventname4Cell.swift */,
-			);
-			name = Cell;
-			path = Cell;
-			sourceTree = "<group>";
-		};
-		03DFF897C5FF0741D4AFBB2E /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				B97D31E0E40E1B3C12EEE2EE /* Hobby3Cell.swift */,
-			);
-			name = Cell;
-			path = Cell;
-			sourceTree = "<group>";
-		};
-		044D002848B821DA6CBC5314 /* IPhone11ProXSixOneView */ = {
-			isa = PBXGroup;
-			children = (
-				A8C2D2B348396FE78A289BD8 /* IPhone11ProXSixOneView.swift */,
-				81482482AB1D68F422553C2F /* Cell */,
-				5A34307A22BFB0A00E60DC0F /* IPhone11ProXSixOneViewModel.swift */,
-			);
-			name = IPhone11ProXSixOneView;
-			path = IPhone11ProXSixOneView;
-			sourceTree = "<group>";
-		};
-		106F6B8ADFB1DA9B7C4A16C6 /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				C14A2D32771F0340326CDBC7 /* StackcreatefromfraCell.swift */,
-			);
-			name = Cell;
-			path = Cell;
-			sourceTree = "<group>";
-		};
-		191C7705CE0E87238AC90EDC /* IPhone11ProXTwentySixView */ = {
-			isa = PBXGroup;
-			children = (
-				7DD24A514B622064C973BE76 /* IPhone11ProXTwentySixView.swift */,
-				02FCE003A4BF67B3C7BDEDA4 /* Cell */,
-				EA272322550F91E68B2E4EA8 /* IPhone11ProXTwentySixViewModel.swift */,
-			);
-			name = IPhone11ProXTwentySixView;
-			path = IPhone11ProXTwentySixView;
-			sourceTree = "<group>";
-		};
-		1DDF66721D55F99AE0CFED75 /* IPhone11ProXOneTwoView */ = {
-			isa = PBXGroup;
-			children = (
-				0B5B02E861AB5F4C5AE0DF5C /* IPhone11ProXOneTwoView.swift */,
-				5F0E193A7E12221AB8AF41FB /* IPhone11ProXOneTwoViewModel.swift */,
-			);
-			name = IPhone11ProXOneTwoView;
-			path = IPhone11ProXOneTwoView;
 			sourceTree = "<group>";
 		};
 		22D6FC097CECAD7342602BD0 /* TabAndPager */ = {
@@ -332,57 +138,7 @@
 				E35A399540112EDC86174E84 /* TabsView.swift */,
 				C8F8668DCB623E04A24B3581 /* PagerView.swift */,
 			);
-			name = TabAndPager;
 			path = TabAndPager;
-			sourceTree = "<group>";
-		};
-		2FAC9320AFBD9A7FCEADB00F /* IPhone11ProXEight1View */ = {
-			isa = PBXGroup;
-			children = (
-				78CCB8A67761537E78DE76EA /* IPhone11ProXEight1View.swift */,
-				609A0E98A858CF19895247F6 /* IPhone11ProXEight1ViewModel.swift */,
-			);
-			name = IPhone11ProXEight1View;
-			path = IPhone11ProXEight1View;
-			sourceTree = "<group>";
-		};
-		3D311989BB64344ACA829313 /* IPhone11ProXTwentyFourView */ = {
-			isa = PBXGroup;
-			children = (
-				1374FC098EE3AB4FDA86F89E /* IPhone11ProXTwentyFourView.swift */,
-				F074712B710807F5BDCFB8E8 /* Cell */,
-				3F80D5376E94665CAFA7E875 /* IPhone11ProXTwentyFourViewModel.swift */,
-			);
-			name = IPhone11ProXTwentyFourView;
-			path = IPhone11ProXTwentyFourView;
-			sourceTree = "<group>";
-		};
-		468347BAFD277E5728764C83 /* MenupopupOneView */ = {
-			isa = PBXGroup;
-			children = (
-				FB546EA7BD992CFA6BE55008 /* MenupopupOneView.swift */,
-				B32228B3CE4151F82E46B786 /* MenupopupOneViewModel.swift */,
-			);
-			name = MenupopupOneView;
-			path = MenupopupOneView;
-			sourceTree = "<group>";
-		};
-		46B66D0E0BCC09E726710149 /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				20632279A85630A19372159D /* ColumnCell.swift */,
-			);
-			name = Cell;
-			path = Cell;
-			sourceTree = "<group>";
-		};
-		487D06BB009541D12467A036 /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				D4253FB335E736915EE7FB68 /* RowrectangletwentynineCell.swift */,
-			);
-			name = Cell;
-			path = Cell;
 			sourceTree = "<group>";
 		};
 		4D6529707738B6A60A2A78A9 /* CustomViews */ = {
@@ -391,79 +147,7 @@
 				22D6FC097CECAD7342602BD0 /* TabAndPager */,
 				7606C4384AEF0F12B4955426 /* CalendarModuleView */,
 			);
-			name = CustomViews;
 			path = CustomViews;
-			sourceTree = "<group>";
-		};
-		570AD8C7704CFAED5162A493 /* IPhone11ProXFourteenView */ = {
-			isa = PBXGroup;
-			children = (
-				F2DFCE7E71057C2DCDB776D8 /* IPhone11ProXFourteenView.swift */,
-				68476C51A67DBEF8257E502C /* Cell */,
-				D7B3003A7AC09AA56D0D86AF /* IPhone11ProXFourteenViewModel.swift */,
-			);
-			name = IPhone11ProXFourteenView;
-			path = IPhone11ProXFourteenView;
-			sourceTree = "<group>";
-		};
-		58B694060F3C14390C309D43 /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				B6E9FE4E1C0F6381B0ADA51E /* Hobby1Cell.swift */,
-				FA2063B3C7B20CFDC605CD25 /* Hobby2Cell.swift */,
-			);
-			name = Cell;
-			path = Cell;
-			sourceTree = "<group>";
-		};
-		650B63747124BA95D3839609 /* IPhone11ProXNine1View */ = {
-			isa = PBXGroup;
-			children = (
-				11A7FA507FCE201D6411AC57 /* IPhone11ProXNine1View.swift */,
-				228DA5E495CAE0910FF85F5C /* IPhone11ProXNine1ViewModel.swift */,
-			);
-			name = IPhone11ProXNine1View;
-			path = IPhone11ProXNine1View;
-			sourceTree = "<group>";
-		};
-		68476C51A67DBEF8257E502C /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				192F7AF92BD5650787E7FDD3 /* Rowrectangletwentynine1Cell.swift */,
-				D3B21B794C33957A0EFDE0A1 /* RecommendationCell.swift */,
-			);
-			name = Cell;
-			path = Cell;
-			sourceTree = "<group>";
-		};
-		6B24D7AAA4AD86BA5188D6D7 /* IPhone11ProXTwentySevenView */ = {
-			isa = PBXGroup;
-			children = (
-				6CA258820BC4CC2BB5501DB0 /* IPhone11ProXTwentySevenView.swift */,
-				58B694060F3C14390C309D43 /* Cell */,
-				C2A6C9DA2CC2200B1B18C218 /* IPhone11ProXTwentySevenViewModel.swift */,
-			);
-			name = IPhone11ProXTwentySevenView;
-			path = IPhone11ProXTwentySevenView;
-			sourceTree = "<group>";
-		};
-		7227789A52857FB82D5761F1 /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				D4BAD70A6919B831E6D5E7C0 /* HobbyCell.swift */,
-			);
-			name = Cell;
-			path = Cell;
-			sourceTree = "<group>";
-		};
-		75CCB5CA68961204A7CCCA62 /* IPhone11ProXEighteenOneView */ = {
-			isa = PBXGroup;
-			children = (
-				B366BF72A618B83E1B0AAD13 /* IPhone11ProXEighteenOneView.swift */,
-				ED9374E1C4D5FD0F6FC966FC /* IPhone11ProXEighteenOneViewModel.swift */,
-			);
-			name = IPhone11ProXEighteenOneView;
-			path = IPhone11ProXEighteenOneView;
 			sourceTree = "<group>";
 		};
 		7606C4384AEF0F12B4955426 /* CalendarModuleView */ = {
@@ -471,7 +155,6 @@
 			children = (
 				7FC549CAA2B78F0E3AD1BBB3 /* CalendarModuleView.swift */,
 			);
-			name = CalendarModuleView;
 			path = CalendarModuleView;
 			sourceTree = "<group>";
 		};
@@ -490,35 +173,6 @@
 				7F44DBA027422A5D00171570 /* ActivityLoader.swift */,
 			);
 			path = ActivityLoader;
-			sourceTree = "<group>";
-		};
-		81482482AB1D68F422553C2F /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				49BDC8ADB403F9483E9BEFDA /* EventnameCell.swift */,
-			);
-			name = Cell;
-			path = Cell;
-			sourceTree = "<group>";
-		};
-		83D91F27852A352ACC6D9884 /* IPhone11ProXTwentyOne1View */ = {
-			isa = PBXGroup;
-			children = (
-				F902D26FF06B53E9EE9F02E6 /* IPhone11ProXTwentyOne1View.swift */,
-				6E2749E5DC6B54D6106CF9DA /* IPhone11ProXTwentyOne1ViewModel.swift */,
-			);
-			name = IPhone11ProXTwentyOne1View;
-			path = IPhone11ProXTwentyOne1View;
-			sourceTree = "<group>";
-		};
-		86E46CDE6137EECC2390B181 /* IPhone11ProXTwentyOneView */ = {
-			isa = PBXGroup;
-			children = (
-				E99CDDA222FF9442C0E3D155 /* IPhone11ProXTwentyOneView.swift */,
-				0CF6611ACE2F3F95BC2BF811 /* IPhone11ProXTwentyOneViewModel.swift */,
-			);
-			name = IPhone11ProXTwentyOneView;
-			path = IPhone11ProXTwentyOneView;
 			sourceTree = "<group>";
 		};
 		88680D1A2775C5BD002E964F /* Viewport */ = {
@@ -577,7 +231,9 @@
 		88ED74F6272FFECA0088E3EF /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
+				16D16B29297DBA9200751ABA /* test3.json */,
 				88ED74F7272FFECA0088E3EF /* Utilities.swift */,
+				16D16B2B297DBADD00751ABA /* JSONManager.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -622,140 +278,6 @@
 			path = Application;
 			sourceTree = "<group>";
 		};
-		967F2FB5CFFBD5143EC8E9A9 /* FrameElevenView */ = {
-			isa = PBXGroup;
-			children = (
-				D7F04FF4FADD3524F379064D /* FrameElevenView.swift */,
-				2130F9F5E38180ADE755841E /* FrameElevenViewModel.swift */,
-			);
-			name = FrameElevenView;
-			path = FrameElevenView;
-			sourceTree = "<group>";
-		};
-		97D8732C6ECAC110CD4A7AF8 /* IPhone11ProXFourView */ = {
-			isa = PBXGroup;
-			children = (
-				3E10A4642247B371039E86AA /* IPhone11ProXFourView.swift */,
-				03DFF897C5FF0741D4AFBB2E /* Cell */,
-				270063991FB49DBE68F1880C /* IPhone11ProXFourViewModel.swift */,
-			);
-			name = IPhone11ProXFourView;
-			path = IPhone11ProXFourView;
-			sourceTree = "<group>";
-		};
-		9CF7E189B618F30205C1C047 /* IPhone11ProXTwentyFiveView */ = {
-			isa = PBXGroup;
-			children = (
-				5B40F3961DF5FAE2E90E9642 /* IPhone11ProXTwentyFiveView.swift */,
-				55683932B03E7D1F9E03326D /* IPhone11ProXTwentyFiveViewModel.swift */,
-			);
-			name = IPhone11ProXTwentyFiveView;
-			path = IPhone11ProXTwentyFiveView;
-			sourceTree = "<group>";
-		};
-		A2B50AA71836C2E36AE9A699 /* FrameTenView */ = {
-			isa = PBXGroup;
-			children = (
-				84F11146042BAC99B79ED785 /* FrameTenView.swift */,
-				8A0AA5DFAD3F6ACA3AA729F8 /* FrameTenViewModel.swift */,
-			);
-			name = FrameTenView;
-			path = FrameTenView;
-			sourceTree = "<group>";
-		};
-		A534A5B00E5F5FA3D3AF7685 /* IPhone11ProXTwentyOne2View */ = {
-			isa = PBXGroup;
-			children = (
-				C610B058FA9E9CEA7A7FEB37 /* IPhone11ProXTwentyOne2View.swift */,
-				ED597F29E7AEBCE0AAC58C09 /* IPhone11ProXTwentyOne2ViewModel.swift */,
-			);
-			name = IPhone11ProXTwentyOne2View;
-			path = IPhone11ProXTwentyOne2View;
-			sourceTree = "<group>";
-		};
-		A9EB41DC197A9E08D9DE35B5 /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				31AD14BC9F9ACE24C805A982 /* Eventname2Cell.swift */,
-				BC0FF37A9AEB6ADDD3AAF728 /* Eventname3Cell.swift */,
-			);
-			name = Cell;
-			path = Cell;
-			sourceTree = "<group>";
-		};
-		AC366CE7F9E7AFA893E1FB98 /* FrameTwelveView */ = {
-			isa = PBXGroup;
-			children = (
-				00B083B56D80AECC27CE5F5B /* FrameTwelveView.swift */,
-				44FC2DF89C3E5CB2CD1604FF /* FrameTwelveViewModel.swift */,
-			);
-			name = FrameTwelveView;
-			path = FrameTwelveView;
-			sourceTree = "<group>";
-		};
-		AD2112C8D5B85E35B44AFD9F /* IPhone11ProXTwentyThreeView */ = {
-			isa = PBXGroup;
-			children = (
-				D81EE03F90839D02BE402F49 /* IPhone11ProXTwentyThreeView.swift */,
-				3C2974435482B277CC22BD09 /* IPhone11ProXTwentyThreeViewModel.swift */,
-			);
-			name = IPhone11ProXTwentyThreeView;
-			path = IPhone11ProXTwentyThreeView;
-			sourceTree = "<group>";
-		};
-		B4C3D5F0860D961090F32641 /* MenupopupTwoView */ = {
-			isa = PBXGroup;
-			children = (
-				C3FC38FB4E1963A4263997B0 /* MenupopupTwoView.swift */,
-				5C7B73203F954B874F8AB35A /* MenupopupTwoViewModel.swift */,
-			);
-			name = MenupopupTwoView;
-			path = MenupopupTwoView;
-			sourceTree = "<group>";
-		};
-		B5E81F89A6511B2DB3BCD2F7 /* IPhone11ProXSixteenView */ = {
-			isa = PBXGroup;
-			children = (
-				0CCF82B794C8B88B1A5FD121 /* IPhone11ProXSixteenView.swift */,
-				A9EB41DC197A9E08D9DE35B5 /* Cell */,
-				991B0254FAA66562BFDCA444 /* IPhone11ProXSixteenViewModel.swift */,
-			);
-			name = IPhone11ProXSixteenView;
-			path = IPhone11ProXSixteenView;
-			sourceTree = "<group>";
-		};
-		BA1D9E3E96B935225FC7A6F0 /* IPhone11ProXThirteenOneView */ = {
-			isa = PBXGroup;
-			children = (
-				5F07CCFD441B637FF690E503 /* IPhone11ProXThirteenOneView.swift */,
-				487D06BB009541D12467A036 /* Cell */,
-				7AAB7F9ED8026288850B9335 /* IPhone11ProXThirteenOneViewModel.swift */,
-			);
-			name = IPhone11ProXThirteenOneView;
-			path = IPhone11ProXThirteenOneView;
-			sourceTree = "<group>";
-		};
-		BCEE0518CC74026C6121D4F8 /* IPhone11ProXSevenTwoView */ = {
-			isa = PBXGroup;
-			children = (
-				B5283354AE67EE5FA48A24D1 /* IPhone11ProXSevenTwoView.swift */,
-				6D2BF410699AE7BEB0224DCE /* IPhone11ProXSevenTwoViewModel.swift */,
-			);
-			name = IPhone11ProXSevenTwoView;
-			path = IPhone11ProXSevenTwoView;
-			sourceTree = "<group>";
-		};
-		BED3B309859447A6DC8DA5B3 /* IPhone11ProXNineteenView */ = {
-			isa = PBXGroup;
-			children = (
-				3C7EFA2D25F9C6AEEF516DBA /* IPhone11ProXNineteenView.swift */,
-				7227789A52857FB82D5761F1 /* Cell */,
-				F174A9BACA9A3604E1D6F0B2 /* IPhone11ProXNineteenViewModel.swift */,
-			);
-			name = IPhone11ProXNineteenView;
-			path = IPhone11ProXNineteenView;
-			sourceTree = "<group>";
-		};
 		C0DB6676EEDB6F4E4F166D2C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -770,7 +292,6 @@
 				6D3AA3C3C02ABB018C542B4D /* IPhone11ProXSixOneContainerView.swift */,
 				7BB764F02A4FE842D27B0246 /* IPhone11ProXSixOneContainerViewModel.swift */,
 			);
-			name = IPhone11ProXSixOneContainerView;
 			path = IPhone11ProXSixOneContainerView;
 			sourceTree = "<group>";
 		};
@@ -779,29 +300,7 @@
 			children = (
 				DC9D8ECD134D3319DD44E3B7 /* Fonts */,
 			);
-			name = Resources;
 			path = Resources;
-			sourceTree = "<group>";
-		};
-		D516C5CB0E76337825FE8B71 /* IPhone11ProXTenOneView */ = {
-			isa = PBXGroup;
-			children = (
-				6DACF2778AC9F22B9B69ECB7 /* IPhone11ProXTenOneView.swift */,
-				46B66D0E0BCC09E726710149 /* Cell */,
-				8EF78B0A6CBC9E9CC4CEE06E /* IPhone11ProXTenOneViewModel.swift */,
-			);
-			name = IPhone11ProXTenOneView;
-			path = IPhone11ProXTenOneView;
-			sourceTree = "<group>";
-		};
-		D91B870AFA86A14120FBDC0B /* MenupopupThreeView */ = {
-			isa = PBXGroup;
-			children = (
-				DAE475682EF4E752AB65369D /* MenupopupThreeView.swift */,
-				6DDCAFBFA074DBACA5C728D1 /* MenupopupThreeViewModel.swift */,
-			);
-			name = MenupopupThreeView;
-			path = MenupopupThreeView;
 			sourceTree = "<group>";
 		};
 		DB76D562EB9A33F58C771FEC /* Pods */ = {
@@ -810,7 +309,6 @@
 				2382BAD887CF6220267591FF /* Pods-Shwetasapplication9.debug.xcconfig */,
 				9FC27237101A96C6DCD67636 /* Pods-Shwetasapplication9.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -826,38 +324,7 @@
 				DACC6815FAF7E49DA2A221BF /* MontserratMedium.ttf */,
 				569358363E158F8CC7E18897 /* MontserratRegular.ttf */,
 			);
-			name = Fonts;
 			path = Fonts;
-			sourceTree = "<group>";
-		};
-		DDEEA164B428CE077849D6B7 /* IPhone11ProXTwoView */ = {
-			isa = PBXGroup;
-			children = (
-				7CE56DD6C09FD6C0A26DD272 /* IPhone11ProXTwoView.swift */,
-				EBEAA21C5CF83F164475BA95 /* IPhone11ProXTwoViewModel.swift */,
-			);
-			name = IPhone11ProXTwoView;
-			path = IPhone11ProXTwoView;
-			sourceTree = "<group>";
-		};
-		E5CD007E19DF58719254E72B /* IPhone11ProXFifteenView */ = {
-			isa = PBXGroup;
-			children = (
-				37FB2973E8AEE5F3C71151C0 /* IPhone11ProXFifteenView.swift */,
-				106F6B8ADFB1DA9B7C4A16C6 /* Cell */,
-				D5F439DC349CC05C30295B8F /* IPhone11ProXFifteenViewModel.swift */,
-			);
-			name = IPhone11ProXFifteenView;
-			path = IPhone11ProXFifteenView;
-			sourceTree = "<group>";
-		};
-		F074712B710807F5BDCFB8E8 /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				5C8BDCD47B5355652E988688 /* Eventname1Cell.swift */,
-			);
-			name = Cell;
-			path = Cell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -924,6 +391,7 @@
 				D9FD5D6153FAFD9E9AB7C916 /* MontserratAlternatesBlack.ttf in Resources */,
 				CF68393212D4EC3669EB4BC4 /* MontserratSemiBold.ttf in Resources */,
 				E71C44908DC2BEF4244A2046 /* MontserratRomanBold.ttf in Resources */,
+				16D16B2A297DBA9200751ABA /* test3.json in Resources */,
 				F03E9D4B9592697CE706043D /* MontserratBold.ttf in Resources */,
 				7011228A799F228A7E2B2D5B /* MontserratRomanMedium.ttf in Resources */,
 				567C911F528D459B2D538C1A /* MontserratRomanRegular.ttf in Resources */,
@@ -981,96 +449,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16D16B3E297DFD6600751ABA /* IPhone11ProXTwoViewModel.swift in Sources */,
 				888CB47527686A000041116C /* APIExtensions.swift in Sources */,
+				16D16B45297DFDA800751ABA /* IPhone11ProXFourViewModel.swift in Sources */,
 				8853052A27718E2D00B04E6F /* EncodableExtension.swift in Sources */,
 				8853052C2771949600B04E6F /* UINavigationController.swift in Sources */,
 				88ED7503272FFECA0088E3EF /* APIManager.swift in Sources */,
 				7F44DBA127422A5D00171570 /* ActivityLoader.swift in Sources */,
+				16D16B40297DFD6800751ABA /* IPhone11ProXOneTwoViewModel.swift in Sources */,
 				8853052627718DC500B04E6F /* ViewExtension.swift in Sources */,
 				88ED7500272FFECA0088E3EF /* Utilities.swift in Sources */,
+				16D16B38297DFD3200751ABA /* IPhone11ProXTwoView.swift in Sources */,
 				88ED7504272FFECA0088E3EF /* Shwetasapplication9App.swift in Sources */,
 				C40AB9F82754D79E006BC5D7 /* AppDelegate.swift in Sources */,
 				88680D1C2775C601002E964F /* ViewportHelper.swift in Sources */,
+				16D16B36297DFD2600751ABA /* FrameTwelveView.swift in Sources */,
 				88ED7501272FFECA0088E3EF /* AppConstants.swift in Sources */,
 				884F3E5127B0E65A00963FC4 /* RoundedCornersView.swift in Sources */,
 				D118CAD101C6ED909D65FD0F /* StringScheme.swift in Sources */,
+				16D16B3C297DFD6200751ABA /* FrameTwelveViewModel.swift in Sources */,
 				820D482A58CB13674206AE61 /* ColorConstants.swift in Sources */,
+				16D16B3A297DFD3500751ABA /* IPhone11ProXOneTwoView.swift in Sources */,
 				DC000BA08D1D72DD6602CCD0 /* FontScheme.swift in Sources */,
-				2264A82FD8BC17B1605FFAEC /* IPhone11ProXSixOneView.swift in Sources */,
-				5E5DFCEF69A6DE4FF678E5DA /* EventnameCell.swift in Sources */,
-				EEF1B8D18CDC3F3EFEFF7736 /* IPhone11ProXThirteenOneView.swift in Sources */,
-				0F222CBDF4AE406073E0CFA1 /* RowrectangletwentynineCell.swift in Sources */,
-				0FBAC2B5E00B8D633260C19B /* IPhone11ProXTwentyFourView.swift in Sources */,
-				1B86F6581AF035A897678010 /* Eventname1Cell.swift in Sources */,
-				A317BA7A5D04D6EC931798F6 /* IPhone11ProXOneTwoView.swift in Sources */,
-				8C06582E0EDE268F4593DABF /* MenupopupOneView.swift in Sources */,
-				EA0DACD1BAC10F67A1A9A1C1 /* FrameTwelveView.swift in Sources */,
-				B52230F435268D0763C98404 /* FrameTenView.swift in Sources */,
-				02312715BA4ACC53B0C54E9A /* FrameElevenView.swift in Sources */,
-				A0D1B5B3A2119BCF57A3FA17 /* IPhone11ProXEighteenOneView.swift in Sources */,
-				77EF8DF05B4E4BD67428EF07 /* IPhone11ProXNineteenView.swift in Sources */,
-				82F0A22EC603747A1EB8AC31 /* HobbyCell.swift in Sources */,
-				00AE173C7A5FB84406388B92 /* IPhone11ProXTwentySevenView.swift in Sources */,
-				BAC68359D8A8F8F1153B5107 /* Hobby1Cell.swift in Sources */,
-				284580E3BF6B08823928C06E /* Hobby2Cell.swift in Sources */,
-				9A1CCB23325A10E0A664DD22 /* IPhone11ProXTwoView.swift in Sources */,
-				67ADDFD2E0D2E78857302765 /* IPhone11ProXFourView.swift in Sources */,
-				756B61D9AD27F555A8BF7054 /* Hobby3Cell.swift in Sources */,
-				19FE10805EBB60D730014710 /* IPhone11ProXEight1View.swift in Sources */,
-				8D53E295659956ACB437AF21 /* IPhone11ProXNine1View.swift in Sources */,
-				B72B9E3DE706AD6548447DC7 /* IPhone11ProXFourteenView.swift in Sources */,
-				74D3EB9064B88350C5039684 /* Rowrectangletwentynine1Cell.swift in Sources */,
-				D0690072EE8A1BD69AF668E2 /* RecommendationCell.swift in Sources */,
-				87AF7062A49705E7AFE8B7B1 /* IPhone11ProXSixteenView.swift in Sources */,
-				27E9FE7BA7A5396777271EBF /* Eventname2Cell.swift in Sources */,
-				1D89A584C5609853825DC7A7 /* Eventname3Cell.swift in Sources */,
-				514A9471421AFA11EE770F73 /* IPhone11ProXTenOneView.swift in Sources */,
-				31DF84A370D5A938A7C9920F /* ColumnCell.swift in Sources */,
-				D927C514C11F919D07A7E034 /* IPhone11ProXFifteenView.swift in Sources */,
-				14DD88D4805536538C7C4D87 /* StackcreatefromfraCell.swift in Sources */,
-				BA4C7A4B8DECA96A86A60AE3 /* IPhone11ProXTwentyOneView.swift in Sources */,
-				823C839E296237E84A0406CD /* IPhone11ProXTwentyOne1View.swift in Sources */,
-				776E4BFE551083291B6F198B /* IPhone11ProXTwentyOne2View.swift in Sources */,
-				4C84C662131F90E8AAC76053 /* IPhone11ProXSevenTwoView.swift in Sources */,
-				B50C6B2532CC7321B69C165C /* IPhone11ProXTwentyThreeView.swift in Sources */,
-				C8866DE5723F1A48D8F00354 /* IPhone11ProXTwentyFiveView.swift in Sources */,
-				A8951A0BA095EFD1FB6817EE /* IPhone11ProXTwentySixView.swift in Sources */,
-				1BB6C96C8160BBF5FB980E9A /* Eventname4Cell.swift in Sources */,
-				A50D69808C148657F87A10CC /* MenupopupTwoView.swift in Sources */,
-				B5F4AA063059D1C47C492222 /* MenupopupThreeView.swift in Sources */,
+				16D16B2C297DBADD00751ABA /* JSONManager.swift in Sources */,
+				16D16B2E297DC1AD00751ABA /* clubRenderTest.swift in Sources */,
+				16D16B46297DFDA800751ABA /* IPhone11ProXFourView.swift in Sources */,
+				16D16B48297DFDAE00751ABA /* Hobby3Cell.swift in Sources */,
 				EDB50421B77E7516DB84F137 /* IPhone11ProXSixOneContainerView.swift in Sources */,
 				9D6A332FE133440DEB1E1C42 /* TabsView.swift in Sources */,
 				CAEB3E6F55C76711F4A63035 /* PagerView.swift in Sources */,
 				A846CA5C06F8A7502C3CEACB /* CalendarModuleView.swift in Sources */,
-				52C47B8F16AE589FC1EABBF4 /* IPhone11ProXTwentySixViewModel.swift in Sources */,
-				6B196E626F91B3B64E861F6E /* IPhone11ProXFifteenViewModel.swift in Sources */,
-				6DD1B6B95AA952E1E99FB6AE /* IPhone11ProXThirteenOneViewModel.swift in Sources */,
-				2371A5C3F899B8EF6F303CA4 /* IPhone11ProXSixteenViewModel.swift in Sources */,
-				B4E897BBF7960DB6730BEB1A /* IPhone11ProXTwoViewModel.swift in Sources */,
-				7681013235A81F064F5FF94F /* IPhone11ProXTwentyFourViewModel.swift in Sources */,
 				D5CA6AA05564609C146570C1 /* IPhone11ProXSixOneContainerViewModel.swift in Sources */,
-				290999617ED08F685A4462B1 /* IPhone11ProXFourViewModel.swift in Sources */,
-				43CCABB201808A954E5DE4CD /* IPhone11ProXTwentyThreeViewModel.swift in Sources */,
-				5F1FD37580D0F2B1060EA64B /* FrameTenViewModel.swift in Sources */,
-				174AEF9CCDF1F61222B44820 /* IPhone11ProXFourteenViewModel.swift in Sources */,
-				33CAD54B5A7F1C508AD9C80E /* MenupopupThreeViewModel.swift in Sources */,
-				B94DD32ADFDBCCD4B63508AB /* FrameElevenViewModel.swift in Sources */,
-				CA9A951E5E059401A4530312 /* IPhone11ProXTwentyFiveViewModel.swift in Sources */,
-				9BA1CA4BA806AEA598A555F6 /* IPhone11ProXTwentyOne2ViewModel.swift in Sources */,
-				A2A90C50AD4C9A4F1C06A1AA /* IPhone11ProXTwentySevenViewModel.swift in Sources */,
-				69C37290B3FDFF0695168EB6 /* IPhone11ProXNineteenViewModel.swift in Sources */,
-				E01EB3907DB1F0347DDE2646 /* FrameTwelveViewModel.swift in Sources */,
-				F6002BB4E37DF666D6D4980E /* IPhone11ProXTenOneViewModel.swift in Sources */,
-				8E96E49143A7DF1BF6130FC1 /* MenupopupTwoViewModel.swift in Sources */,
-				7CF5B69A5F339FE96AD66E56 /* IPhone11ProXEighteenOneViewModel.swift in Sources */,
-				3387BA8A9C00E24D6A46CC01 /* IPhone11ProXTwentyOne1ViewModel.swift in Sources */,
-				8301676BA29C724E03ECDF97 /* IPhone11ProXNine1ViewModel.swift in Sources */,
-				63F7691FB4BFB7BE5563763C /* IPhone11ProXOneTwoViewModel.swift in Sources */,
-				6F5EDC57247681D5393541F4 /* MenupopupOneViewModel.swift in Sources */,
-				58EDF00C041F65344FD1134B /* IPhone11ProXTwentyOneViewModel.swift in Sources */,
-				B068EACB1404CD36226D13E8 /* IPhone11ProXSixOneViewModel.swift in Sources */,
-				02B41C15CD88F294D1A987F2 /* IPhone11ProXEight1ViewModel.swift in Sources */,
-				1FDB912C8DEC496652943675 /* IPhone11ProXSevenTwoViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
