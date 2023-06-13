@@ -33,7 +33,7 @@ struct IPhone11ProXFourView: View {
                 .fill(ColorConstants.RedA700)
                 .frame(width: 140, height: 50)
                 .position(x: 0, y: 0)
-                .overlay(Button(action: { iPhone11ProXFourViewModel.nextScreen = "Feed"},
+                .overlay(Button(action: { iPhone11ProXFourViewModel.nextScreen = "IPhone11ProXSixOneContainerView"},
                     label: {
                     Text("NEXT").foregroundColor(ColorConstants.WhiteA700)
                         .font(FontScheme.kMontserratBold(size: getRelativeHeight(15.0)))
@@ -88,7 +88,7 @@ struct IPhone11ProXFourView: View {
                             
                             Button(action: {
                                 if topics.contains(image){
-                                    topics.remove(at: topics.index(of: image)!)
+                                    topics.remove(at: topics.firstIndex(of: image)!)
                                 } else {
                                     topics.insert(image, at: 0);
                                 }
@@ -110,7 +110,7 @@ struct IPhone11ProXFourView: View {
 //            var cnt = topics.count
 //            var hi = String(cnt)
 //            Text(hi)
-        
+//
         }
     }
 }
